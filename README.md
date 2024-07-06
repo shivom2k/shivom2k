@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Shivom! 👋
 
 Welcome to my GitHub profile! I'm passionate about solving complex problems through algorithms and programming, particularly in C++ and Python. I enjoy working on projects that challenge me to learn new skills and improve my coding abilities.
 
