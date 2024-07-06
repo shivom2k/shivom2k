@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm passionate about solving complex problems thro
 
 - **Email:** shivomchawla2000@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/shivom-chawla-025b421b2/
+<h4> 🧷 <a href="https://github.com/shivom2k/shivom2k/blob/main/Resume_ShivomChawla.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
 
 ## Hobbies and Interests
 
