@@ -43,6 +43,10 @@ Welcome to my GitHub profile! I'm passionate about solving complex problems thro
 
 <img src="https://streak-stats.demolab.com?user=shivom2k&theme=dark&border_radius=7.8" alt="shinchancode" />
 
----
+<div align="center">
+	<p>Visitors Count 🥽</p>
+ <img height="25px" src="https://komarev.com/ghpvc/?username=shivom2k&label=Profile%20views&color=0e75b6&style=flat" alt="shivom2k" />
+
+</div>
 
 Thank you for visiting my profile! I'm always open to collaborating on interesting projects, so feel free to reach out.
