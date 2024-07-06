@@ -41,6 +41,8 @@ Welcome to my GitHub profile! I'm passionate about solving complex problems thro
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivom2k&layout=compact&theme=radical)
 
+<p align="center" ><img src="https://streak-stats.demolab.com?user=shivom2k&theme=dark&border_radius=7.8" alt="shinchancode" /></p>
+
 ---
 
 Thank you for visiting my profile! I'm always open to collaborating on interesting projects, so feel free to reach out.
