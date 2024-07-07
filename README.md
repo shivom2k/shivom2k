@@ -57,3 +57,6 @@ Welcome to my GitHub profile! I'm passionate about solving complex problems thro
 </div>
 
 Thank you for visiting my profile! I'm always open to collaborating on interesting projects, so feel free to reach out.
+<p>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
