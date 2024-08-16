@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about solving complex problems thro
 - 🧩 Solving Puzzles
 
 ## Activity Graph
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark" alt="ShahramShakiba Activities"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shivom2k&theme=one-dark" alt="Shivom Activities"/>
 
 <br/>
 <br/>
